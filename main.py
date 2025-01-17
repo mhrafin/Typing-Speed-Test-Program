@@ -68,7 +68,7 @@ def manage_words():
     if words_typed == words_needed:
         finished_typing = time.time()
         total = finished_typing - started_typing
-        print(f"WPS: {int((words_typed / total) * 60)}")
+        # print(f"WPS: {int((words_typed / total) * 60)}")
         for i, word in enumerate(test_words):
             word.grid_remove()
 
