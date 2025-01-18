@@ -16,13 +16,13 @@ Make sure python3 is installed on your system.
 Clone the project
 
 ```bash
-  git clone https://github.com/mhrafin/Image-Watermarker.git
+  git clone https://github.com/mhrafin/Typing-Speed-Test-Program.git
 ```
 
 Go to the project directory
 
 ```bash
-  cd Image-Watermarker
+  cd Typing-Speed-Test-Program
 ```
 
 Install requirements
